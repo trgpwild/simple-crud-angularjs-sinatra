@@ -5,13 +5,15 @@ A simple example of CRUD with AngularJs and the amazing Sinatra framework
 
 To execute
 
- sh bundle install 
+sh bundle install
 
- thin start
+thin start
 
 To run Test (requires phantomjs - see http://phantomjs.org/)
 
- npm install testacular -g cd public testacular start
+ npm install testacular -g
+
+ cd public testacular start
 
  open new window
 
